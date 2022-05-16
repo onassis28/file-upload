@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Chakra Petch", sans-serif;
+  text-decoration: none;;
+}
+
+img{
+  width: 100%;
+}
+
+html {
+  scroll-behavior: smooth;
+  height: 100%;
+  overflow: auto;
+}
+
+::webkit-scrollbar {
+  display: none;
+}

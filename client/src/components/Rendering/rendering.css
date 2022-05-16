@@ -1,0 +1,8 @@
+.rendering_container{
+    margin-top: 3rem;
+}
+
+.rendering_items>p{
+    margin-top: 1rem;
+    font-size: 1.5rem;
+}
